@@ -3,7 +3,7 @@ package examcontroller;
 public class Membercontroller {
 
 	public void a(){
-		
+		System.out.println("asd");
 	}
 
 	
