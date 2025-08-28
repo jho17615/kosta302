@@ -20,5 +20,7 @@ public void sa() {
 public void update() {
 	System.out.println("로컬 updatae");
 }
-
+public void updatedd() {
+	System.out.println("소스트리");
+}
 }
